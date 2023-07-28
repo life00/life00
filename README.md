@@ -4,7 +4,11 @@ SSH public key:
 life ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHvrvklEwdxbJIe5KUL4y6cRIwhpmwx06w76fy6x31/A
 ```
 
-XMPP: `life@magicbroccoli.de`
+XMPP: 
+
+```
+life@magicbroccoli.de
+```
 
 OMEMO fingerprint: 
 
