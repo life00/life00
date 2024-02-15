@@ -8,8 +8,8 @@
   - `life00:tchncs.de`
 - XMPP (*recommended*): 
   - `life@tchncs.de`
-  - OMEMO fingerprint(s): 
-    - `3ed6041b e214a553 28723c46 e6a28a1d 85e1412d 1fc74143 98bf5d3d 1857ec5f`
+    - OMEMO fingerprint(s): 
+      - `3ed6041b e214a553 28723c46 e6a28a1d 85e1412d 1fc74143 98bf5d3d 1857ec5f`
 
 ## Keys
 
