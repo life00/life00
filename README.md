@@ -2,7 +2,7 @@
 
 - GitHub
   - `life00`
-- Mastodon
+- Fediverse
   - `@life00@social.tchncs.de`
 - Matrix
   - `life00:tchncs.de`
