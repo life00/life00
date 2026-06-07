@@ -1,7 +1,20 @@
-## About
+Hi, I'm Ivan. I work at the intersection of finance and data science.
 
-I am a finance student. I like programming, data science, and linux.
+- **Skills:** Python, R, Go, SQL, Git, Linux, Neovim, _and more..._
+- **Focus:** Quantitative Research, Predictive Modeling & ML
+- **Goal:** Advancing a career in **quantitative finance** 🚀
 
-## Contacts
+📝 Technical Blog: [life00.github.io](https://life00.github.io)
 
-- Matrix: `life00:tchncs.de`
+---
+
+📂 **Featured Projects**
+
+- **[Arbitrage Inspector](https://github.com/life00/arbitrage-inspector)** | `Go`, `CCXT`, `Goroutines`, `WebSockets`
+  - An automated analysis bot that detects real-time triangular and multi-exchange arbitrage opportunities across cryptocurrency markets
+- **[Quantitative Projects Collection](https://github.com/life00/quant-uni-projects)** | `Python`, `R`, `RMarkdown`, `LaTeX`
+  - A curated repository of projects covering portfolio optimization, risk management, and econometrics
+- **[Awecron](https://github.com/life00/awecron)** | `Go`, `Bash`, `Linux`
+  - A lightweight cron daemon optimized for desktop Linux system usage
+
+_currently building ML/AI predictive models ✨_
