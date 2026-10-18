@@ -16,7 +16,5 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
   - An automated analysis bot that detects real-time triangular and multi-exchange arbitrage opportunities across cryptocurrency markets
 - **[Quantitative Projects Collection](https://github.com/life00/quant-uni-projects)** | `Python`, `R`, `RMarkdown`, `LaTeX`
   - A curated repository of projects covering portfolio optimization, risk management, and econometrics
-- **[Awecron](https://github.com/life00/awecron)** | `Go`, `Bash`, `Linux`
-  - A lightweight cron daemon optimized for desktop Linux system usage
 
 _currently building ML/AI predictive models ✨_
