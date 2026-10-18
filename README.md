@@ -10,6 +10,8 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
 
 📂 **Featured Projects**
 
+- **[Factor Weaver](https://github.com/life00/factor-weaver)** | `Python`, `pandas`, `PyTorch`, `scikit-learn`, `MLflow`
+  - Reinforcement learning framework for portfolio management that integrates multi-factor features across a dynamic equity universe.
 - **[Arbitrage Inspector](https://github.com/life00/arbitrage-inspector)** | `Go`, `CCXT`, `Goroutines`, `WebSockets`
   - An automated analysis bot that detects real-time triangular and multi-exchange arbitrage opportunities across cryptocurrency markets
 - **[Quantitative Projects Collection](https://github.com/life00/quant-uni-projects)** | `Python`, `R`, `RMarkdown`, `LaTeX`
