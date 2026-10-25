@@ -6,8 +6,6 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
 
 📝 Technical Blog: [life00.github.io](https://life00.github.io)
 
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=life00&layout=compact&hide_border=true&hide_title=true&hide=jupyter%20notebook)
-
 ---
 
 📂 **Featured Projects**
@@ -20,3 +18,8 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
   - A curated repository of projects covering portfolio optimization, risk management, and econometrics
 
 _currently building ML/AI predictive models ✨_
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=life00&layout=compact&hide_border=true&hide_title=true&hide=jupyter%20notebook&theme=dark_github" />
+  <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=life00&layout=compact&hide_border=true&hide_title=true&hide=jupyter%20notebook&theme=light_github" />
+</picture>
