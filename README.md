@@ -19,7 +19,4 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
 
 _currently building ML/AI predictive models ✨_
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=life00&layout=compact&hide_border=true&hide_title=true&hide=jupyter%20notebook&theme=dark_github" />
-  <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=life00&layout=compact&hide_border=true&hide_title=true&hide=jupyter%20notebook&theme=light_github" />
-</picture>
+![Top languages](./languages.svg)
