@@ -16,6 +16,8 @@ Hi, I'm Ivan. I work at the intersection of finance and data science.
   - An automated analysis bot that detects real-time triangular and multi-exchange arbitrage opportunities across cryptocurrency markets
 - **[Quantitative Projects Collection](https://github.com/life00/quant-uni-projects)** | `Python`, `R`, `RMarkdown`, `LaTeX`
   - A curated repository of projects covering portfolio optimization, risk management, and econometrics
+- **[nn-cpp](https://github.com/life00/nn-cpp)** | `C++`
+  - A neural network built from scratch in C++ with backpropagation, trained on Fashion-MNIST
 
 _currently building ML/AI predictive models ✨_
 
